@@ -20,7 +20,7 @@ var _header2 = _interopRequireDefault(_header);
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
-var _jsxFileName = 'F:\\Blockchain\\projects\\kickstarter\\components\\layout.js';
+var _jsxFileName = 'C:\\Users\\lenovo\\OneDrive\\Desktop\\projects\\coinskite\\kickstarter\\components\\layout.js';
 
 exports.default = function (props) {
     return _react2.default.createElement(_semanticUiReact.Container, {
@@ -47,4 +47,4 @@ exports.default = function (props) {
         }
     }), props.children);
 };
-//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImNvbXBvbmVudHNcXGxheW91dC5qcyJdLCJuYW1lcyI6WyJSZWFjdCIsIkNvbnRhaW5lciIsIkhlYWQiLCJIZWFkZXIiLCJwcm9wcyIsImNoaWxkcmVuIl0sIm1hcHBpbmdzIjoiOzs7Ozs7QUFBQSxBQUFPOzs7O0FBQ1AsQUFBUzs7QUFDVCxBQUFPOzs7O0FBQ1AsQUFBTyxBQUFZLEFBRW5COzs7Ozs7OztrQkFBZSxpQkFBUyxBQUNwQjsyQkFDSSxBQUFDOztzQkFBRDt3QkFBQSxBQUNJO0FBREo7QUFBQSxLQUFBLGtCQUNJLEFBQUM7O3NCQUFEO3dCQUFBLEFBQ0k7QUFESjtBQUFBO2FBQ0ksQUFDUSxBQUNKO2NBRkosQUFFUzs7c0JBRlQ7d0JBRlIsQUFDSSxBQUNJLEFBS0o7QUFMSTtBQUNJLHlCQUlSLEFBQUM7O3NCQUFEO3dCQVBKLEFBT0ksQUFDQztBQUREO0FBQUEsY0FSUixBQUNJLEFBUVcsQUFJbEI7QUFkRCIsImZpbGUiOiJsYXlvdXQuanMiLCJzb3VyY2VSb290IjoiRjovQmxvY2tjaGFpbi9wcm9qZWN0cy9raWNrc3RhcnRlciJ9
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImNvbXBvbmVudHNcXGxheW91dC5qcyJdLCJuYW1lcyI6WyJSZWFjdCIsIkNvbnRhaW5lciIsIkhlYWQiLCJIZWFkZXIiLCJwcm9wcyIsImNoaWxkcmVuIl0sIm1hcHBpbmdzIjoiOzs7Ozs7QUFBQSxBQUFPOzs7O0FBQ1AsQUFBUzs7QUFDVCxBQUFPOzs7O0FBQ1AsQUFBTyxBQUFZLEFBRW5COzs7Ozs7OztrQkFBZSxpQkFBUyxBQUNwQjsyQkFDSSxBQUFDOztzQkFBRDt3QkFBQSxBQUNJO0FBREo7QUFBQSxLQUFBLGtCQUNJLEFBQUM7O3NCQUFEO3dCQUFBLEFBQ0k7QUFESjtBQUFBO2FBQ0ksQUFDUSxBQUNKO2NBRkosQUFFUzs7c0JBRlQ7d0JBRlIsQUFDSSxBQUNJLEFBS0o7QUFMSTtBQUNJLHlCQUlSLEFBQUM7O3NCQUFEO3dCQVBKLEFBT0ksQUFDQztBQUREO0FBQUEsY0FSUixBQUNJLEFBUVcsQUFJbEI7QUFkRCIsImZpbGUiOiJsYXlvdXQuanMiLCJzb3VyY2VSb290IjoiQzovVXNlcnMvbGVub3ZvL09uZURyaXZlL0Rlc2t0b3AvcHJvamVjdHMvY29pbnNraXRlL2tpY2tzdGFydGVyIn0=

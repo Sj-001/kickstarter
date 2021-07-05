@@ -37,7 +37,7 @@ class ContributeForm extends Component {
   render() {
     return (
       <Form onSubmit={this.onSubmit} error={!!this.setState.errorMessage}>
-        <Form.Feild>
+        <Form.Field>
           <label>Amount to contribute</label>
           <Input
             value={this.state.value}
@@ -45,7 +45,7 @@ class ContributeForm extends Component {
             label="ether"
             labelPosition="right"
           />
-        </Form.Feild>
+        </Form.Field>
         <Message error header="Oops!" content={this.state.errorMessage} />
 
         <Button primary loading={this.state.loading}>
